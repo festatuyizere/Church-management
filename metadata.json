@@ -1,0 +1,7 @@
+{
+  "name": "Nazarene Family Data Management System (NFDMS)",
+  "description": "Comprehensive church member and family record management system for the Church of the Nazarene, Remera (Kigali, Rwanda).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
